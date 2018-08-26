@@ -1,6 +1,6 @@
 # Cracking the Data Science Interview
 
-This repository contains resources to prepare for a data science interview, as well as resources to navigate the interview process. These resources were created to supplement the O'Reilly video course: [Cracking the Data Science Interview]().
+This repository contains resources to prepare for a data science interview, as well as resources to navigate the interview process. These resources were created to supplement the O'Reilly video course: [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do).
 
 ## Materials
 
@@ -16,8 +16,8 @@ This repository contains the following files:
 
 The corresponding videos can be found on the following sites for purchase:
 
-* [O'Reilly site (individual purchase)][0]
-* [Safari Books Online (subscription)][0.1]
+* [O'Reilly site (individual purchase)](http://shop.oreilly.com/product/0636920039259.do)
+* [Safari Books Online (subscription)](https://www.safaribooksonline.com/library/view/cracking-the-data/9781491924259/)
 
 ### Contact
 
