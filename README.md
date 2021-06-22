@@ -1,5 +1,9 @@
 # Cracking the Data Science Interview
 
+[![Discord badge](https://img.shields.io/discord/830547562385113149?style=flat-square&color=%235865F2)](https://discord.gg/nbyZ6EpUum)
+[![Twitter Follow badge](https://img.shields.io/badge/twitter-@jonathandinu-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/jonathandinu)
+[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
+
 This repository contains resources to prepare for a data science interview, as well as resources to navigate the interview process. These resources were created to supplement the O'Reilly video course: [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do).
 
 ## Materials
